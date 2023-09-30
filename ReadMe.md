@@ -1,5 +1,11 @@
 # 💫 About Me:
-Futuro Front End<br>1 período de Engenharia de  Software
+Atualmente, estou no primeiro período da faculdade de Engenharia de Software, residindo na cidade de Tenente Ananias, no Rio Grande do Norte.
+
+Aprender é o meu combustível. Sinto uma imensa alegria em desbravar novos horizontes, especialmente quando se trata de programação e design. A combinação dessas duas disciplinas é onde encontro minha verdadeira paixão, transformando códigos em experiências visuais envolventes.
+
+Minha jornada é moldada por características que me definem: **foco**, para manter os olhos no objetivo; **resiliência**, para superar obstáculos; **esforço**, para persistir incansavelmente; e, claro, uma pitada de **diversão**, porque acredito que o aprendizado pode (e deve) ser uma jornada prazerosa.
+
+Neste espaço, você encontrará meu crescimento como desenvolvedor, refletido em projetos que vão desde experimentos iniciais até desafios mais complexos. Cada linha de código é uma oportunidade de aprendizado e uma demonstração do meu compromisso em evoluir.
 
 
 ## 🌐 Socials:
