@@ -1,5 +1,8 @@
 # 💫 About Me:
-Atualmente, estou no primeiro período da faculdade de Engenharia de Software, residindo na cidade de Tenente Ananias, no Rio Grande do Norte.
+
+Olá, sou Franciêr Eduardo Luz! 👋 
+
+Com 20 anos de idade e uma enorme paixão pela tecnologia, estou trilhando meu caminho em direção ao universo do Front-End. Atualmente, estou no primeiro período da faculdade de Engenharia de Software, residindo na cidade de Tenente Ananias, no Rio Grande do Norte.
 
 Aprender é o meu combustível. Sinto uma imensa alegria em desbravar novos horizontes, especialmente quando se trata de programação e design. A combinação dessas duas disciplinas é onde encontro minha verdadeira paixão, transformando códigos em experiências visuais envolventes.
 
